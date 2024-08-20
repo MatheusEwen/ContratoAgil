@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/72282924/144152395-0de1899f-ca12-4479-824f-5f7e99f83dbb.jpeg" />
 </div>
 
- ## Desenvolvedore
+ ## Desenvolvedor
 - [@Matheus Ewen Ferreira Barbosa](https://github.com/MatheusEwen)
 
 ## Sobre o Projeto
