@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "33158724833",
+    "project_id": "contratoagil-bf9bf",
+    "storage_bucket": "contratoagil-bf9bf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33158724833:android:5fad88f254fed3caa3cba0",
+        "android_client_info": {
+          "package_name": "br.com.fiap.contratoagil"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2c1zaj6_NQkb4ieJgB9IBnj_R_4m5dPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
